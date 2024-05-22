@@ -3,7 +3,10 @@ export const navItems = [
   { name: "Projects", link: "#projects" },
   { name: "Testimonials", link: "#testimonials" },
   { name: "Contact", link: "#contact" },
-  { name: "Experiences", link: "#experiences" }
+  { name: "Experiences", link: "#experiences" },
+  { name: "My-Approach", link: "#approaches" },
+  
+  
 ];
 
 export const gridItems = [
