@@ -63,7 +63,7 @@ export const gridItems = [
   },
   {
     id: 6,
-    title: "Do you want to start a project together?",
+    title: "Do you want to explore my resume and a brief about myself?",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -209,13 +209,17 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    href: "https://github.com/Swapnanilmanna1701"
   },
   {
     id: 2,
     img: "/twit.svg",
+    href: "https://x.com/swapnaneel1701"
+    
   },
   {
     id: 3,
     img: "/link.svg",
+    href: "https://www.linkedin.com/in/swapnanil-manna-042176204/"
   },
 ];
