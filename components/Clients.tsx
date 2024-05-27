@@ -9,8 +9,8 @@ function Clients() {
   return (
     <section id="testimonials" className="py-20">
       <h1 className="heading">
-        Kind words from
-        <span className="text-blue-400"> satisfied clients</span>
+        My Academic 
+        <span className="text-blue-400"> Background & Achievements</span>
       </h1>
 
       <div className="flex flex-col items-center max-lg:mt-10">
@@ -24,8 +24,14 @@ function Clients() {
             speed="slow"
           />
         </div>
-
-        {/* <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10">
+        <div>
+        <h1 className="heading">
+        My  
+        <span className="text-blue-400"> Skills & TechStacks</span>
+      </h1>
+      </div>
+      
+        <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-20">
           {companies.map((company) => (
             <React.Fragment key={company.id}>
               <div className="flex md:max-w-60 max-w-32 gap-2">
@@ -43,8 +49,9 @@ function Clients() {
               </div>
             </React.Fragment>
           ))}
-        </div> */}
-      </div>
+        </div>
+      </div>   
+      
     </section>
   );
 }
