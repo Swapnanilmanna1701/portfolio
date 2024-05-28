@@ -8,7 +8,6 @@ export const navItems = [
   
   
 ];
-
 export const gridItems = [
   {
     id: 1,
@@ -17,7 +16,7 @@ export const gridItems = [
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
-    img: "/b1.svg",
+    img: "/pg.jpg",
     spareImg: "",
   },
   {
@@ -87,7 +86,7 @@ export const projects = [
     title: "chatiFY - Fullstack Chat Application",
     des: "A simple yet engaging chat application with a real-time chat feature and a user-friendly interface using Node.js and Chatengine.io.",
     img: "/ch.jpg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/js.svg", "/nn.svg"],
     link: "https://github.com/Swapnanilmanna1701?tab=repositories",
   },
   {
@@ -95,7 +94,7 @@ export const projects = [
     title: "RayBan - Landing Page",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/rb1.jpg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/js.svg", "/c.svg"],
     link: "https://github.com/Swapnanilmanna1701?tab=repositories",
   },
   {
@@ -108,19 +107,19 @@ export const projects = [
   },
   ,
   {
-    id: 4,
-    title: "MyTube - Video Sharing Platform",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/mt.jpg",
+    id: 5,
+    title: "Currency Converter - Web App",
+    des: "A React application that converts currencies using the ExchangeRate-API and has a minimalistic UI design.",
+    img: "/mn.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://github.com/Swapnanilmanna1701?tab=repositories",
   }
   ,
   {
-    id: 4,
-    title: "MyTube - Video Sharing Platform",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/mt.jpg",
+    id: 6,
+    title: "VisuAL - A Video Streaming Application",
+    des: "A Fullstack application that allows users to upload and watch videos, with a user-friendly interface..",
+    img: "/vs.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://github.com/Swapnanilmanna1701?tab=repositories",
   }
@@ -214,14 +213,99 @@ export const companies = [
   {
     id: 9,
     name: "",
-    img: "/db.png",
+    img: "/mongo.svg",
     nameImg: "/",
   },
   ,
   {
     id: 10,
     name: "",
-    img: "/redux_logo.png",
+    img: "/redux.svg",
+    nameImg: "/",
+  },
+  ,
+  {
+    id: 11,
+    name: "",
+    img: "/google.svg",
+    nameImg: "/",
+  },
+  {
+    id: 12,
+    name: "",
+    img: "/mat.svg",
+    nameImg: "/",
+  },
+  {
+    id: 13,
+    name: "",
+    img: "/pyt.svg",
+    nameImg: "/",
+  },
+  {
+    id: 14,
+    name: "",
+    img: "/cp.svg",
+    nameImg: "/",
+  },
+  {
+    id: 15,
+    name: "",
+    img: "/fb.svg",
+    nameImg: "/",
+  },
+  {
+    id: 16,
+    name: "",
+    img: "/css.svg",
+    nameImg: "/",
+  },
+  {
+    id: 17,
+    name: "",
+    img: "/open.svg",
+    nameImg: "/",
+  },
+  {
+    id: 18,
+    name: "",
+    img: "/ht.svg",
+    nameImg: "/",
+  },
+  {
+    id: 19,
+    name: "",
+    img: "/git.svg",
+    nameImg: "/",
+  },
+  {
+    id: 20,
+    name: "",
+    img: "/pyc.svg",
+    nameImg: "/",
+  },
+  {
+    id: 21,
+    name: "",
+    img: "/aws.svg",
+    nameImg: "/",
+  },
+  {
+    id: 22,
+    name: "",
+    img: "/exp.svg",
+    nameImg: "/",
+  },
+  {
+    id: 23,
+    name: "",
+    img: "/g.svg",
+    nameImg: "/",
+  },
+  {
+    id: 24,
+    name: "",
+    img: "/sql.svg",
     nameImg: "/",
   }
 ];
@@ -260,18 +344,18 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
+    img: "/gh.svg",
     href: "https://github.com/Swapnanilmanna1701"
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/tx.svg",
     href: "https://x.com/swapnaneel1701"
     
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: "/ld.svg",
     href: "https://www.linkedin.com/in/swapnanil-manna-042176204/"
   },
 ];

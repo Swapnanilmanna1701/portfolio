@@ -24,7 +24,7 @@ function Clients() {
             speed="slow"
           />
         </div>
-        <div>
+        <div className='mb-20'>
         <h1 className="heading">
         My  
         <span className="text-blue-400"> Skills & TechStacks</span>
