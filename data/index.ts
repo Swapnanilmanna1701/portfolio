@@ -79,7 +79,7 @@ export const projects = [
     des: "A complete website for a music school with a signup system and a dashboard for teachers to manage their courses and contacts.",
     img: "/music.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/Swapnanilmanna1701?tab=repositories",
+    link: "https://github.com/Swapnanilmanna1701",
   },
   {
     id: 2,
@@ -87,7 +87,7 @@ export const projects = [
     des: "A simple yet engaging chat application with a real-time chat feature and a user-friendly interface using Node.js and Chatengine.io.",
     img: "/ch.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/js.svg", "/nn.svg"],
-    link: "https://github.com/Swapnanilmanna1701?tab=repositories",
+    link: "https://github.com/Swapnanilmanna1701",
   },
   {
     id: 3,
@@ -95,7 +95,7 @@ export const projects = [
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/rb1.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/js.svg", "/c.svg"],
-    link: "https://github.com/Swapnanilmanna1701?tab=repositories",
+    link: "https://github.com/Swapnanilmanna1701",
   },
   {
     id: 4,
@@ -103,7 +103,7 @@ export const projects = [
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/mt.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/Swapnanilmanna1701?tab=repositories",
+    link: "https://github.com/Swapnanilmanna1701",
   },
   ,
   {
@@ -112,7 +112,7 @@ export const projects = [
     des: "A React application that converts currencies using the ExchangeRate-API and has a minimalistic UI design.",
     img: "/mn.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/Swapnanilmanna1701?tab=repositories",
+    link: "https://github.com/Swapnanilmanna1701",
   }
   ,
   {
@@ -121,7 +121,7 @@ export const projects = [
     des: "A Fullstack application that allows users to upload and watch videos, with a user-friendly interface..",
     img: "/vs.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/Swapnanilmanna1701?tab=repositories",
+    link: "https://github.com/Swapnanilmanna1701",
   }
 ];
 
