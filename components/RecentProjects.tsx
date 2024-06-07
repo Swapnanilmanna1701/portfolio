@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect } from 'react'
+import { useState, useEffect } from "react";
 import { FaLocationArrow } from "react-icons/fa6";
 
 import { projects } from "@/data";
@@ -18,7 +18,7 @@ const RecentProjects = () => {
             className="lg:min-h-[32.5rem] h-[25rem] flex items-center justify-center w-[80vw] sm:h-[41rem] sm:w-[570px]"
             key={item.id}
           >
-            <a href="https://github.com/Swapnanilmanna1701?tab=repositories">
+           
               <PinContainer title="visit" href={item.link}>
                 <div className="relative flex items-center justify-center sm:w-96 w-[80vw] overflow-hidden h-[20vh] lg:h-[30vh] mb-10">
                   <div
@@ -71,7 +71,7 @@ const RecentProjects = () => {
                   </div>
                 </div>
               </PinContainer>
-            </a>
+            
           </div>
         ))}
       </div>
